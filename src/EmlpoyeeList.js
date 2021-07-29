@@ -10,7 +10,7 @@ const EmlpoyeeList = () => {
    const rowData = useSelector(state => state.employeeRedu.employeeList);
 
    return (
-       <div className="ag-theme-alpine" style={{height: 400, width: 600}}>
+       <div className="ag-theme-alpine" style={{height: 400, width: 1200}}>
            <AgGridReact rowData={rowData}>
                <AgGridColumn field="id"></AgGridColumn>
                <AgGridColumn field="name"></AgGridColumn>
