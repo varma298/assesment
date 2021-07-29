@@ -11,12 +11,12 @@ const initialState = {
     counter:0,
     employeCount:100,
     employeeList:[
-        {id: "12", name: "Rajesh", age: 35, gender:"Male", email:"abcd@g.com", phone:"123456"},
-        {id: "13", name: "Ramesh", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
-        {id: "14", name: "seenu", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
-        {id: "14", name: "kiran", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
-        {id: "15", name: "sridhar", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
-        {id: "16", name: "rupesh", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
+        {id: "1", name: "test1", age: 11, gender:"male", email:"test1@gmail.com", phone:"9415346313"},
+        {id: "2", name: "test1", age: 12, gender:"male", email:"test2@gmail.com", phone:"9415346314"},
+        {id: "3", name: "test1", age: 13, gender:"male", email:"test3@gmail.com", phone:"9415346315"},
+        {id: "4", name: "test1", age: 14, gender:"male", email:"test4@gmail.com", phone:"9415346316"},
+        {id: "5", name: "test1", age: 15, gender:"male", email:"test5@gmail.com", phone:"9415346317"},
+        {id: "6", name: "test1", age: 16, gender:"male", email:"test6@gmail.com", phone:"9415346318"},
  
     ]
 }
