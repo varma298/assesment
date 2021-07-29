@@ -13,6 +13,10 @@ const initialState = {
     employeeList:[
         {id: "12", name: "Rajesh", age: 35, gender:"Male", email:"abcd@g.com", phone:"123456"},
         {id: "13", name: "Ramesh", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
+        {id: "14", name: "seenu", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
+        {id: "14", name: "kiran", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
+        {id: "15", name: "sridhar", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
+        {id: "16", name: "rupesh", age: 25, gender:"Male", email:"abcd@g.com", phone:"123456"},
  
     ]
 }
