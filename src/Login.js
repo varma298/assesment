@@ -33,7 +33,8 @@ function Login() {
   return (
     <>
 
-      <h1>Employee count From redux :: {employeeCount}</h1>
+      {/* <h1>Employee count From redux :: {employeeCount}</h1> */}
+      <h1>Employee Dashboard page</h1>
 
       <form>
         User Name: <input type="text" value={uName} onChange={handleChange} /> <br />
